@@ -87,7 +87,7 @@
   <td>Python, Pandas, Scikit-learn, CatBoost</td>
 </tr>
 <tr>
-  <th>#</th>
+  <th>12</th>
   <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20токсичных%20комментариев">Определение токсичных комментариев</a></td>
   <td>Машинное обучение для текстов (BERT). Определение токсичных комментариев</td>
   <td>pandas, ntlk, BERT, distilBERT, torch</td>
@@ -96,7 +96,7 @@
   <th>13</th>
   <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20возраста%20покупателей">Определение возраста покупателей</a></td>
   <td>Компьютерное зрение (computer vision, CV) для обработки фотографий покупателей для определения возраста</td>
-  <td>Tensorflow (Keras)</td>
+  <td>tensorflow (keras)</td>
 </tr>
 <tr>
   <th>14</th>

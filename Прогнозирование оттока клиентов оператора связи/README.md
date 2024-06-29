@@ -14,6 +14,19 @@
 
 За услуги клиенты могут платить каждый месяц или заключить договор на 1–2 года. Доступны различные способы расчёта и возможность получения электронного чека.
 
+Использованы библиотеки и методы:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn:
+    - DecisionTreeClassifier
+    - DummyClassifier
+    - RandomizedSearchCV
+    - Pipeline
+- CatBoostClassifier
+- XGBClassifier
+
 # Выводы по проекту:
 - Лучшее значение ROC-AUC на тренировочной выборке показала модель CatBoost - 0.905.
 - Модель Catboost имеет хорошее время обучения.

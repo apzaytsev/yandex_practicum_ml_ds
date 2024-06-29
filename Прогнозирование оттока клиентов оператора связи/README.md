@@ -12,7 +12,6 @@
 - seaborn
 - scikit-learn:
     - DecisionTreeClassifier
-    - DummyClassifier
     - RandomizedSearchCV
     - Pipeline
 - CatBoostClassifier

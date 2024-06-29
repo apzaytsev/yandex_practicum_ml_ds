@@ -88,10 +88,9 @@
 </tr>
 <tr>
   <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p13.%20Проект%20для%20%22Викишоп%22">Обучение модели 
-классификации комментариев</a></td>
-  <td>Определение токсичных комментариев</td>
-  <td>Python, Pandas, Scikit-learn, tf-idf</td>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20токсичных%20комментариев">Определение токсичных комментариев</a></td>
+  <td>Машинное обучение для текстов (BERT). Определение токсичных комментариев</td>
+  <td>pandas, ntlk, BERT, distilBERT, torch</td>
 </tr>
 <tr>
   <th>13</th>

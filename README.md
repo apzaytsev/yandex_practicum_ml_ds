@@ -102,8 +102,7 @@
 </tr>
 <tr>
   <th>14</th>
-  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/p15.%20Финальный%20проетк">Финальный 
-проект</a></td>
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20оттока%20клиентов%20оператора%20связи">Прогнозирование оттока клиентов оператора связи</a></td>
   <td>Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Ваша задача — обучить модель, которая будет предсказывать, разорвёт ли абонент договор.</td>
   <td>Python, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, исследовательский анализ данных</td>
 </tr>

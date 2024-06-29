@@ -95,10 +95,9 @@
 </tr>
 <tr>
   <th>13</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p14.%20Определение%20возраста%20покупателей">Обработка 
-фотографий покупателя</a></td>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20возраста%20покупателей">Определение возраста покупателей</a></td>
   <td>Определение возраста по фотографии</td>
-  <td>Python, Tensorflow, Keras</td>
+  <td>Tensorflow (Keras)</td>
 </tr>
 <tr>
   <th>14</th>

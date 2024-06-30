@@ -52,15 +52,14 @@
   <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/8.%20Выбор%20локации%20для%20нефтедобычи">Определение 
-наиболее выгодного региона нефтедобычи</a></td>
-  <td>На основе данных геологи разведки выбрать район добычи нефти</td>
-  <td>Python, Pandas, Matplotlib, Scikit-learn</td>
+  <th>7</th>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Предсказание%20вероятности%20снижения%20покупательской%20активности">Предсказание вероятности снижения покупательской активности</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <th>8</th>
-  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Предсказание%20уровня%20удовлетворенности%20сотрудников">Предскзаание уровня удовлетворенности сотрудников</a></td>
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Предсказание%20уровня%20удовлетворенности%20сотрудников">Предсказание уровня удовлетворенности сотрудников</a></td>
   <td></td>
   <td></td>
 </tr>

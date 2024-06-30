@@ -45,11 +45,10 @@
   <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/7.%20Прогнозирование%20оттока%20клиентов">Прогнозирование 
-оттока клиента Банка</a></td>
-  <td>На основе данных из банка определить клиент, который может уйти</td>
-  <td>Python, Pandas, Matplotlib, Scikit-learn</td>
+  <th>6</th>
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20удоя%20молока">Прогнозирование удоя молока</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <th>7</th>

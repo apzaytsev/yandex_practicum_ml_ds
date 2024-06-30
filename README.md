@@ -59,11 +59,10 @@
   <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/9.%20Сборный%20проект-2">Сборный 
-проект-2</a></td>
-  <td>Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
-  <td>Python, Pandas, Matplotlib, Seaborn, NumPy,Scikit-learn, исследовательский анализ данных</td>
+  <th>8</th>
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Предсказание%20уровня%20удовлетворенности%20сотрудников">Предскзаание уровня удовлетворенности сотрудников</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <th>9</th>

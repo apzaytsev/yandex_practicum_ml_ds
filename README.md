@@ -81,10 +81,10 @@
 </tr>
 <tr>
   <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p12.%20Прогнозирование%20заказов%20такси">Прогнозирование 
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20заказов%20такси%20на%20следующий%20час">Прогнозирование 
 количества заказов такси на следующий час</a></td>
-  <td>Разработка системы предсказаний количества заказов</td>
-  <td>Python, Pandas, Scikit-learn, CatBoost</td>
+  <td>Анализ временных рядов. Построение модели для прогнозирования количества заказов такси на следующий час</td>
+  <td>pandas, Scikit-learn, CatBoost</td>
 </tr>
 <tr>
   <th>12</th>

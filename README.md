@@ -23,8 +23,8 @@
 <tr>
   <th>3</th>
   <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20удоя%20молока">Прогнозирование удоя молока</a></td>
-  <td></td>
-  <td></td>
+  <td>Разработка моделей для прогнозирования удоя молока и его вкуса с целью отбора подходящих для покупки коров</td>
+  <td>pandas, numpy, matplotlib, seaborn, scikit-learn</td>
 </tr>
 <tr>
   <th>4</th>

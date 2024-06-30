@@ -66,11 +66,10 @@
   <td>Python, Pandas, Matplotlib, Seaborn, NumPy,Scikit-learn, исследовательский анализ данных</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/p10.%20Защита%20персональных%20данных">Защита 
-данных клиентов страховой компании</a></td>
-  <td>Разработка модели анонимизации персональных данных</td>
-  <td>Python, Pandas, NumPy, Scikit-learn</td>
+  <th>9</th>
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Выбор%20локации%20для%20скважины">Выбор локации для скважины</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <th>10</th>

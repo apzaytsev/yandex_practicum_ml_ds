@@ -80,11 +80,11 @@
   <td>Python, Pandas, lightgbm</td>
 </tr>
 <tr>
-  <th>#</th>
+  <th>11</th>
   <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20заказов%20такси%20на%20следующий%20час">Прогнозирование 
 количества заказов такси на следующий час</a></td>
   <td>Анализ временных рядов. Построение модели для прогнозирования количества заказов такси на следующий час</td>
-  <td>pandas, numpy, matplotlib, seaborn, scikit-learn, RandomForest, CatBoost,</td>
+  <td>pandas, numpy, matplotlib, seaborn, scikit-learn, RandomForest, CatBoost</td>
 </tr>
 <tr>
   <th>12</th>

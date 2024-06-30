@@ -31,11 +31,10 @@
   <td>Python, Pandas, Matplotlib, NumPy, SciPy, проверка статистических гипотез</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/5.%20Сборный%20проект-1">Сборный 
-проект-1</a></td>
-  <td>Анализ рынка компьютерных игр</td>
-  <td>Python, Pandas, Matplotlib, Seaborn, SciPy, предобработка данных, исследовательский аналих данных, проверка статистических гипотез</td>
+  <th>4</th>
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Анализ%20сервиса%20аренды%20самокатов%20GoFast">Анализ сервиса аренды самокатов GoFast</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <th>5</th>

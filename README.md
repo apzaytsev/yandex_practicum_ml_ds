@@ -10,7 +10,7 @@
 </tr> 
 <tr>
   <th>#</th>
-  <td><a href  = "https://github.com/aavolkov17/YandexPracticum/tree/main/2.%20Исследование%20надежности%20заемщиков">Исследование 
+  <td><a href  = "https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/2.%20Исследование%20надежности%20заемщиков">Исследование 
 надёжности заёмщиков — анализ банковских данных</a></td>
   <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
 кредита в срок</td>
@@ -18,64 +18,63 @@
 </tr>
 <tr>
   <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/3.%20Исследование%20рынка%20недвижимости">Продажа 
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/3.%20Исследование%20рынка%20недвижимости">Продажа 
 квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
   <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
   <td>Python, Pandas, Matplotlib, исследовательский анализ, предобработка данных</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/4.%20Выбор%20оптимального%20тарифа">Определение 
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/4.%20Выбор%20оптимального%20тарифа">Определение 
 выгодного тарифа для телеком компании</a></td>
   <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и найти оптимальный тариф</td>
   <td>Python, Pandas, Matplotlib, NumPy, SciPy, проверка статистических гипотез</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/5.%20Сборный%20проект-1">Сборный 
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/5.%20Сборный%20проект-1">Сборный 
 проект-1</a></td>
   <td>Анализ рынка компьютерных игр</td>
   <td>Python, Pandas, Matplotlib, Seaborn, SciPy, предобработка данных, исследовательский аналих данных, проверка статистических гипотез</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/6.%20Классификация%20клиентов">Классификаиция 
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/6.%20Классификация%20клиентов">Классификаиция 
 клиентов телеком компании</a></td>
   <td>На основе данных предложить клиенту тариф.</td>
   <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/7.%20Прогнозирование%20оттока%20клиентов">Прогнозирование 
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/7.%20Прогнозирование%20оттока%20клиентов">Прогнозирование 
 оттока клиента Банка</a></td>
   <td>На основе данных из банка определить клиент, который может уйти</td>
   <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/8.%20Выбор%20локации%20для%20нефтедобычи">Определение 
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/8.%20Выбор%20локации%20для%20нефтедобычи">Определение 
 наиболее выгодного региона нефтедобычи</a></td>
   <td>На основе данных геологи разведки выбрать район добычи нефти</td>
   <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/9.%20Сборный%20проект-2">Сборный 
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/9.%20Сборный%20проект-2">Сборный 
 проект-2</a></td>
   <td>Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
   <td>Python, Pandas, Matplotlib, Seaborn, NumPy,Scikit-learn, исследовательский анализ данных</td>
 </tr>
 <tr>
   <th>#</th>
-  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/p10.%20Защита%20персональных%20данных">Защита 
+  <td><a href ="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/p10.%20Защита%20персональных%20данных">Защита 
 данных клиентов страховой компании</a></td>
   <td>Разработка модели анонимизации персональных данных</td>
   <td>Python, Pandas, NumPy, Scikit-learn</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p11.%20Определение%20стоимости%20автомобилей">Построение 
-модели определения стоимости автомобиля</a></td>
+  <th>10</th>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20стоимости%20автомобилей">Определения стоимости автомобилей</a></td>
   <td>Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
   <td>Python, Pandas, lightgbm</td>
 </tr>

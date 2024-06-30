@@ -17,8 +17,8 @@
 <tr>
   <th>2</th>
   <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Анализ%20рынка%20компьютерных%20игр">Анализ рынка компьютерных игр</a></td>
-  <td></td>
-  <td></td>
+  <td>Выявление закономерностей, влияющих на успешность игр, для определения перспективных направлений в будущем</td>
+  <td>pandas, numpy, matplotlib, seaborn</td>
 </tr>
 <tr>
   <th>3</th>

@@ -93,7 +93,7 @@
 </tr>
 <tr>
   <th>13</th>
-  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20возраста%20покупателей">Определение возраста покупателей</a></td>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20возраста%20покупателей%20(CV)">Определение возраста покупателей (CV)</a></td>
   <td>Компьютерное зрение (computer vision, CV) для обработки фотографий покупателей для определения возраста</td>
   <td>tensorflow (keras)</td>
 </tr>

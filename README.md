@@ -59,7 +59,7 @@
 </tr>
 <tr>
   <th>9</th>
-  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20токсичных%20комментариев">Определение токсичных комментариев</a></td>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Определение%20токсичных%20комментариев%20(BERT)">Определение токсичных комментариев (BERT)</a></td>
   <td>Машинное обучение для текстов (BERT). Классификация комментариев на позитивные и негативные</td>
   <td>pandas, ntlk, BERT, distilBERT, torch</td>
 </tr>

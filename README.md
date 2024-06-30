@@ -80,8 +80,8 @@
 </tr>
 <tr>
   <th>11</th>
-  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20заказов%20такси%20на%20следующий%20час">Прогнозирование 
-количества заказов такси на следующий час</a></td>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Прогнозирование%20заказов%20такси%20(временные%20ряды)">Прогнозирование 
+количества заказов такси (временные ряды)</a></td>
   <td>Анализ временных рядов. Построение модели для прогнозирования количества заказов такси на следующий час</td>
   <td>pandas, numpy, matplotlib, seaborn, scikit-learn, RandomForest, CatBoost</td>
 </tr>

@@ -38,11 +38,10 @@
   <td>Python, Pandas, Matplotlib, Seaborn, SciPy, предобработка данных, исследовательский аналих данных, проверка статистических гипотез</td>
 </tr>
 <tr>
-  <th>#</th>
-  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/6.%20Классификация%20клиентов">Классификаиция 
-клиентов телеком компании</a></td>
-  <td>На основе данных предложить клиенту тариф.</td>
-  <td>Python, Pandas, Matplotlib, Scikit-learn</td>
+  <th>5</th>
+  <td><a href="https://github.com/apzaytsev/yandex_practicum_ml_ds/tree/main/Анализ%20рынка%20компьютерных%20игр">Анализ рынка компьютерных игр</a></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <th>6</th>
